@@ -25,6 +25,7 @@ html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_show_sourcelink = False
 html_title = "EduMirror User Guide"
+html_logo = "_static/edumirror-icon.png"
 html_theme_options = {
     "navigation_depth": 4,
     "collapse_navigation": False,
