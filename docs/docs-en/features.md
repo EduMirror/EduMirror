@@ -185,7 +185,7 @@ When the run completes, **View Results** becomes available. Logs are organized b
 
 Select **View Results** to enter the results workspace. **View Logs** returns to the run step; **Media Generation** opens step six; restarting clears the workflow after confirmation.
 
-The page contains an overall process summary, agent-state analysis, **LLM Surveyor (Psychometric Results)**, and **LLM Rater (Behavior Analysis)**. Screenshots use existing local results to illustrate the controls. Conditions, agents, scales, and numbers are examples; use the data actually displayed for your run.
+The page contains an overall process summary, agent-state analysis, **AI Surveyor (Psychometric Results)**, and **AI Rater (Behavior Analysis)**. Screenshots use existing local results to illustrate the controls. Conditions, agents, scales, and numbers are examples; use the data actually displayed for your run.
 
 ### Overall process and agent states
 
@@ -212,7 +212,7 @@ A need gap is the expected value minus the current value. Satisfaction indicator
 
 ### Surveyor: psychometric results
 
-Expand **LLM Surveyor (Psychometric Results)**. Results are grouped by condition and questionnaire. Cards show available target agents, item counts, summary metrics, dimensions, scale descriptions, and interpretations. If there are no corresponding measurements, the page shows a no-data message. This area displays results, not questionnaire configuration.
+Expand **AI Surveyor (Psychometric Results)**. Results are grouped by condition and questionnaire. Cards show available target agents, item counts, summary metrics, dimensions, scale descriptions, and interpretations. If there are no corresponding measurements, the page shows a no-data message. This area displays results, not questionnaire configuration.
 
 ```{image} _static/screenshots/10a-results-surveyor-baseline.png
 :alt: Surveyor results grouped by baseline and intervention
@@ -223,7 +223,7 @@ For comparison, locate the same scale, agent, and metric in each condition. Read
 
 ### Rater: behavioral analysis
 
-Expand **LLM Rater (Behavior Analysis)**. Select an agent with available logs or measurement results, select one or more configured rating tools, and run the rating. Cards are grouped by condition and may include hit counts, mean scores, mean severity, principal agents, record or field counts, and representative evidence.
+Expand **AI Rater (Behavior Analysis)**. Select an agent with available logs or measurement results, select one or more configured rating tools, and run the rating. Cards are grouped by condition and may include hit counts, mean scores, mean severity, principal agents, record or field counts, and representative evidence.
 
 ```{image} _static/screenshots/11a-results-rater-baseline.png
 :alt: Rater results grouped by baseline and intervention

@@ -10,7 +10,8 @@ sys.path.insert(0, str(PROJECT_ROOT))
 project = "EduMirror"
 copyright = "2026, EduMirror"
 author = "EduMirror"
-release = ""
+version = "1.0.0"
+release = "1.0.0"
 
 extensions = [
     "myst_parser",

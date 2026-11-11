@@ -114,7 +114,7 @@ Rater checks whether the current condition's logs contain observable behaviors m
 
 ### 4.1 Run and view ratings
 
-1. Expand **LLM Rater (Behavior Analysis)**.
+1. Expand **AI Rater (Behavior Analysis)**.
 2. Select the agent to analyze.
 3. Select one or more configured rating criteria.
 4. Run the rating.

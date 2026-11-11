@@ -119,8 +119,8 @@ Check **Current Mode** and the listed conditions before starting. Click the star
 
 1. Read the overall process summary and consult the original event log as needed.
 2. Examine agent-state changes: need gaps, social value orientation (SVO), satisfaction, and actions over global steps.
-3. Expand **LLM Surveyor (Psychometric Results)** for questionnaire and structured measurement results.
-4. Expand **LLM Rater (Behavior Analysis)** for behavioral evidence and scores derived from the logs.
+3. Expand **AI Surveyor (Psychometric Results)** for questionnaire and structured measurement results.
+4. Expand **AI Rater (Behavior Analysis)** for behavioral evidence and scores derived from the logs.
 
 If no results are available, the run may not have completed or its results may have been cleared. Run a simulation or open a saved record from history.
 
